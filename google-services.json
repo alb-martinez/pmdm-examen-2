@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949207048755",
+    "project_id": "fir-examen-ecd76",
+    "storage_bucket": "fir-examen-ecd76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949207048755:android:a4399612dc9909674c3946",
+        "android_client_info": {
+          "package_name": "com.pmdm.examen2_albertomartinez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949207048755-l3p4rrg2osjgevlpgc4ft7vktf82tf9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4D8ySw1GV4qKWpmNdfx8j4djIGvnrmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949207048755-l3p4rrg2osjgevlpgc4ft7vktf82tf9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
